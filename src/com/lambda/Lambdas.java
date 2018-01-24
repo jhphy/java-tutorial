@@ -2,6 +2,8 @@ package com.lambda;
 
 import java.util.function.*;
 
+//Basic Lambda usage
+
 public class Lambdas {
     /**
      * @param args the command line arguments
